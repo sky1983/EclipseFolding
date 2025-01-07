@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="com.cb.eclipse.foldin.feature"
+      id="com.cb.eclipse.folding.feature"
       label="Coffee Bytes Code Folding"
       version="1.0.6"
       provider-name="Coffee-Bytes"
